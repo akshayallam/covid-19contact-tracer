@@ -1,0 +1,7 @@
+{
+    "extensions.confirmedUriHandlerExtensionIds": [
+    
+    ], "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+     }
+}
