@@ -1,4 +1,4 @@
-# Covid-19 Contact Logger
+# Covid-19 Contact Tracer
 
 Full stack web application that allows users to keep track of their travels in case of a Covid-19 exposure.
 - Created a responsive SPA with React (Redux, Context, Hooks) and JWT Token Authorization
